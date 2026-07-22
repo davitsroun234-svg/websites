@@ -1,4 +1,4 @@
-# User manual
+Freefrie# User manual
 
 [[toc]]
 
